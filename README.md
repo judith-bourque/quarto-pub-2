@@ -32,6 +32,9 @@ Demo of Quarto book published on Quarto Pub
 
 ## Update the book
 
+The GitHub Action used in this repository depends on locally rendered
+computations.
+
 1.  In your terminal, run `quarto render` to update the `_freeze`
     directory
 2.  Commit the changes and push to main
