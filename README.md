@@ -1,0 +1,40 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# quarto-pub-2
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+Demo of Quarto book published on Quarto Pub
+
+## Create the book
+
+1.  [Create a book using Quarto](https://quarto.org/docs/books/)
+
+2.  [Publish a Quarto book on Quarto
+    Pub](https://quarto.org/docs/publishing/quarto-pub.html)
+
+3.  [Set up GitHub
+    Action](https://quarto.org/docs/publishing/quarto-pub.html#github-action)
+
+    1.  Freeze computations
+
+    2.  Add
+        [this](https://quarto.org/docs/publishing/quarto-pub.html#publish-action)
+        GitHub Action
+
+4.  [Set up
+    renv](https://quarto.org/docs/publishing/quarto-pub.html#prerequisites)
+
+5.  [Protect main
+    branch](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/managing-a-branch-protection-rule)
+
+## Update the book
+
+The GitHub Action used in this repository depends on locally rendered
+computations.
+
+1.  In your terminal, run `quarto render` to update the `_freeze`
+    directory
+2.  Commit the changes and push to main
