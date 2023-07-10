@@ -24,6 +24,10 @@ Demo of Quarto book published on Quarto Pub
         [this](https://quarto.org/docs/publishing/quarto-pub.html#publish-action)
         GitHub Action
 
+    3.  [Add Quarto Pub
+        credentials](https://quarto.org/docs/publishing/quarto-pub.html#quarto-pub-credentials)
+        to GitHub repository
+
 4.  [Set up
     renv](https://quarto.org/docs/publishing/quarto-pub.html#prerequisites)
 
