@@ -3,7 +3,7 @@ project:
 
 book:
   title: "quarto-pub-2"
-  author: "Norah Jones"
+  author: "Judith Bourque"
   date: "7/10/2023"
   chapters:
     - index.qmd
