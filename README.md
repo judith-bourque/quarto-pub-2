@@ -8,6 +8,8 @@
 
 Demo of Quarto book published on Quarto Pub
 
+***July 2023: This repository is archived.***
+
 ## Create the book
 
 1.  [Create a book using Quarto](https://quarto.org/docs/books/)
